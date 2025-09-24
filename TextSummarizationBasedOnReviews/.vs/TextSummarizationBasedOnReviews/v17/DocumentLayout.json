@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\summarize.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|solutionrelative:summarize.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E65026ED-2CE2-46C9-824C-8DF9A9C35064}|TextSummarizationBasedOnReviews.pyproj|solutionrelative:config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\config.py",
+              "RelativeDocumentMoniker": "config.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\config.py",
+              "RelativeToolTip": "config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-21T02:22:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-21T02:14:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "summarize.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\summarize.py",
+              "RelativeDocumentMoniker": "summarize.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\TextSummarizationBasedOnReviews\\summarize.py",
+              "RelativeToolTip": "summarize.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-20T06:23:47.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
