@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyC9fl1Bzkg0CWbMe28NATL9hn8Bl_MwDro")
+genai.configure(api_key="xyz")
 
 def generate_email(company_name, contact_name):
 	model = genai.GenerativeModel("gemini-1.5-flash")
