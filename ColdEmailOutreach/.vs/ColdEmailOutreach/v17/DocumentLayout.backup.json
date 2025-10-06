@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\populate_leads.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:populate_leads.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\static\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:static\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\db.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:db.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\templates\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:templates\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\tracker.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:tracker.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\email_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:email_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\ai_personalizer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:ai_personalizer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\token.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:token.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44ACAAF-6F59-4D59-B9AD-403ADC2414EA}|ColdEmailOutreach.pyproj|solutionrelative:config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "populate_leads.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\populate_leads.py",
+              "RelativeDocumentMoniker": "populate_leads.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\populate_leads.py",
+              "RelativeToolTip": "populate_leads.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-01T06:58:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\static\\style.css",
+              "RelativeDocumentMoniker": "static\\style.css",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\static\\style.css",
+              "RelativeToolTip": "static\\style.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-01T06:01:14.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\templates\\dashboard.html",
+              "RelativeDocumentMoniker": "templates\\dashboard.html",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\templates\\dashboard.html",
+              "RelativeToolTip": "templates\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-01T05:58:17.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "credentials.json",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\credentials.json",
+              "RelativeDocumentMoniker": "credentials.json",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\credentials.json",
+              "RelativeToolTip": "credentials.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACWAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T12:30:19.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-29T12:30:02.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tracker.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\tracker.py",
+              "RelativeDocumentMoniker": "tracker.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\tracker.py",
+              "RelativeToolTip": "tracker.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-29T12:29:35.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ai_personalizer.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\ai_personalizer.py",
+              "RelativeDocumentMoniker": "ai_personalizer.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\ai_personalizer.py",
+              "RelativeToolTip": "ai_personalizer.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-29T12:29:24.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "email_service.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\email_service.py",
+              "RelativeDocumentMoniker": "email_service.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\email_service.py",
+              "RelativeToolTip": "email_service.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-29T12:29:06.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "db.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\db.py",
+              "RelativeDocumentMoniker": "db.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\db.py",
+              "RelativeToolTip": "db.py",
+              "ViewState": "AgIAADgAAAAAAAAAAAASwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-29T12:28:54.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-28T17:58:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "token.json",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\token.json",
+              "RelativeDocumentMoniker": "token.json",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\token.json",
+              "RelativeToolTip": "token.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T12:30:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\config.py",
+              "RelativeDocumentMoniker": "config.py",
+              "ToolTip": "C:\\Users\\fatim\\OneDrive\\Documents\\ColdEmailOutreach\\config.py",
+              "RelativeToolTip": "config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-29T12:28:24.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
