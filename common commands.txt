@@ -1,0 +1,15 @@
+mkdir C:\Users\%USERNAME%\projects\fastapi-ai-foundation
+cd C:\Users\%USERNAME%\projects\fastapi-ai-foundation
+
+python -m venv .venv
+.venv\Scripts\activate.bat
+
+.\.venv\Scripts\activate
+
+# Run with uvicorn (auto-reload)
+uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+
+python -m pip install --upgrade pip
+pip install fastapi uvicorn python-multipart pydantic[dotenv] redis aiohttp
+
+pip freeze > requirements.txt
