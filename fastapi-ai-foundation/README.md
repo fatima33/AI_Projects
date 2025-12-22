@@ -51,3 +51,6 @@ fastapi-ai-foundation/
 │
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+
+I integrated Gemini with FastAPI by designing a role-based chat endpoint that supports system instructions, temperature control, and token limits. The backend can easily be extended to support streaming, caching, and async job queues.
+
